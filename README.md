@@ -1,6 +1,6 @@
 # 👩🏻‍💻 André Bezerra
 
-**`Estudante de Desenvolvimento`**
+**`Estudante de Desenvolvimento de Software`**
 
 Me chamo André Bezerra, tenho 20 anos e sou natural do Rio De Janeiro. Concluí o curso Técnico em Redes de Computadores pelo SENAI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. 
 
